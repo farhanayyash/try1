@@ -1,0 +1,15 @@
+nav{
+    position: fixed;
+    top: 0;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+#welcome-section{
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block;
+    height: 100vh;
+}
